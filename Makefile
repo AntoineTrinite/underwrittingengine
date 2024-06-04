@@ -1,5 +1,5 @@
 run: build
- @./bin/uwe
+	@./bin/uwe
 
 build:
 	@go build -o bin/uwe .
